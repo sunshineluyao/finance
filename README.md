@@ -3,8 +3,11 @@
 
 ## Illustrations
 > ![FoF](illustration/FOF.png)
+
 > ![Definition](illustration/definition.png)
-> ![Gini Coefficient](illustration/Gini.png)
+
+> ![Gini Coefficient](illustration/gini.png)
+
 > ![Greek](illustration/greek.png)
 
 
