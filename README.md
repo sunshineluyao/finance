@@ -1,15 +1,13 @@
 # The Future of Finance: CeFi and DeFi as A Synthetic Solution 
 
-# Illustrations
-##
 
-> ![Word Cloud Representation: Title](illustration/definition.png)
+## Illustrations
+> ![FoF](illustration/FOF.png)
+> ![Definition](illustration/definition.png)
+> ![Gini Coefficient](illustration/Gini.png)
+> ![Greek](illustration/greek.png)
 
-> ![Word Cloud Representation: Title](illustration/FOF.png)
 
-> ![Word Cloud Representation: Title](illustration/greek.png)
-
-> > ![Word Cloud Representation: Title](illustration/fig1.png)
 
 # Word Cloud Representation
 
